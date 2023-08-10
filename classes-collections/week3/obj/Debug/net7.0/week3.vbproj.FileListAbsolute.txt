@@ -1,0 +1,15 @@
+/home/kerry91warnes/CandCVB/week3/bin/Debug/net7.0/week3
+/home/kerry91warnes/CandCVB/week3/bin/Debug/net7.0/week3.deps.json
+/home/kerry91warnes/CandCVB/week3/bin/Debug/net7.0/week3.runtimeconfig.json
+/home/kerry91warnes/CandCVB/week3/bin/Debug/net7.0/week3.dll
+/home/kerry91warnes/CandCVB/week3/bin/Debug/net7.0/week3.pdb
+/home/kerry91warnes/CandCVB/week3/obj/Debug/net7.0/week3.vbproj.AssemblyReference.cache
+/home/kerry91warnes/CandCVB/week3/obj/Debug/net7.0/week3.GeneratedMSBuildEditorConfig.editorconfig
+/home/kerry91warnes/CandCVB/week3/obj/Debug/net7.0/week3.AssemblyInfoInputs.cache
+/home/kerry91warnes/CandCVB/week3/obj/Debug/net7.0/week3.AssemblyInfo.vb
+/home/kerry91warnes/CandCVB/week3/obj/Debug/net7.0/week3.vbproj.CoreCompileInputs.cache
+/home/kerry91warnes/CandCVB/week3/obj/Debug/net7.0/week3.dll
+/home/kerry91warnes/CandCVB/week3/obj/Debug/net7.0/refint/week3.dll
+/home/kerry91warnes/CandCVB/week3/obj/Debug/net7.0/week3.pdb
+/home/kerry91warnes/CandCVB/week3/obj/Debug/net7.0/week3.genruntimeconfig.cache
+/home/kerry91warnes/CandCVB/week3/obj/Debug/net7.0/ref/week3.dll

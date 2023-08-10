@@ -1,0 +1,15 @@
+/home/kerry91warnes/CandCVB/week1/program1/bin/Debug/net7.0/program1
+/home/kerry91warnes/CandCVB/week1/program1/bin/Debug/net7.0/program1.deps.json
+/home/kerry91warnes/CandCVB/week1/program1/bin/Debug/net7.0/program1.runtimeconfig.json
+/home/kerry91warnes/CandCVB/week1/program1/bin/Debug/net7.0/program1.dll
+/home/kerry91warnes/CandCVB/week1/program1/bin/Debug/net7.0/program1.pdb
+/home/kerry91warnes/CandCVB/week1/program1/obj/Debug/net7.0/program1.vbproj.AssemblyReference.cache
+/home/kerry91warnes/CandCVB/week1/program1/obj/Debug/net7.0/program1.GeneratedMSBuildEditorConfig.editorconfig
+/home/kerry91warnes/CandCVB/week1/program1/obj/Debug/net7.0/program1.AssemblyInfoInputs.cache
+/home/kerry91warnes/CandCVB/week1/program1/obj/Debug/net7.0/program1.AssemblyInfo.vb
+/home/kerry91warnes/CandCVB/week1/program1/obj/Debug/net7.0/program1.vbproj.CoreCompileInputs.cache
+/home/kerry91warnes/CandCVB/week1/program1/obj/Debug/net7.0/program1.dll
+/home/kerry91warnes/CandCVB/week1/program1/obj/Debug/net7.0/refint/program1.dll
+/home/kerry91warnes/CandCVB/week1/program1/obj/Debug/net7.0/program1.pdb
+/home/kerry91warnes/CandCVB/week1/program1/obj/Debug/net7.0/program1.genruntimeconfig.cache
+/home/kerry91warnes/CandCVB/week1/program1/obj/Debug/net7.0/ref/program1.dll
