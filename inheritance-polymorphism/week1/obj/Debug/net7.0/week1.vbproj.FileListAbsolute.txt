@@ -1,0 +1,15 @@
+/home/kerry91warnes/vbSpecialisationLQ/inheritance-polymorphism/week1/bin/Debug/net7.0/week1
+/home/kerry91warnes/vbSpecialisationLQ/inheritance-polymorphism/week1/bin/Debug/net7.0/week1.deps.json
+/home/kerry91warnes/vbSpecialisationLQ/inheritance-polymorphism/week1/bin/Debug/net7.0/week1.runtimeconfig.json
+/home/kerry91warnes/vbSpecialisationLQ/inheritance-polymorphism/week1/bin/Debug/net7.0/week1.dll
+/home/kerry91warnes/vbSpecialisationLQ/inheritance-polymorphism/week1/bin/Debug/net7.0/week1.pdb
+/home/kerry91warnes/vbSpecialisationLQ/inheritance-polymorphism/week1/obj/Debug/net7.0/week1.vbproj.AssemblyReference.cache
+/home/kerry91warnes/vbSpecialisationLQ/inheritance-polymorphism/week1/obj/Debug/net7.0/week1.GeneratedMSBuildEditorConfig.editorconfig
+/home/kerry91warnes/vbSpecialisationLQ/inheritance-polymorphism/week1/obj/Debug/net7.0/week1.AssemblyInfoInputs.cache
+/home/kerry91warnes/vbSpecialisationLQ/inheritance-polymorphism/week1/obj/Debug/net7.0/week1.AssemblyInfo.vb
+/home/kerry91warnes/vbSpecialisationLQ/inheritance-polymorphism/week1/obj/Debug/net7.0/week1.vbproj.CoreCompileInputs.cache
+/home/kerry91warnes/vbSpecialisationLQ/inheritance-polymorphism/week1/obj/Debug/net7.0/week1.dll
+/home/kerry91warnes/vbSpecialisationLQ/inheritance-polymorphism/week1/obj/Debug/net7.0/refint/week1.dll
+/home/kerry91warnes/vbSpecialisationLQ/inheritance-polymorphism/week1/obj/Debug/net7.0/week1.pdb
+/home/kerry91warnes/vbSpecialisationLQ/inheritance-polymorphism/week1/obj/Debug/net7.0/week1.genruntimeconfig.cache
+/home/kerry91warnes/vbSpecialisationLQ/inheritance-polymorphism/week1/obj/Debug/net7.0/ref/week1.dll
